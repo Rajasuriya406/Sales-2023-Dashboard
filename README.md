@@ -1,6 +1,7 @@
 
 # Sales Performance & Customer Segmentation Dashboard (YoY Analysis)
-link:https://public.tableau.com/app/profile/suriya.raj4719/viz/Book1_17604986820510/Salesdashboard#2
+
+Project link: https://public.tableau.com/app/profile/suriya.raj4719/viz/Book1_17604986820510/Salesdashboard#2
 
  
  ## Project Overview
